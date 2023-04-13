@@ -1,0 +1,1 @@
+### Esse notebook analisa todas as empresas da bolsa de valores brasileira com uma fórmula de margem de segurança.
